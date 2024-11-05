@@ -1,6 +1,6 @@
 This project is done as part of Advanced Computer Vision - MCEN 5228.
 
-#Abstract
+# Abstract
  In this project we are
  stitching together images to form a panorama. This process is
  done by first extracting corners of images, then we select a subset
